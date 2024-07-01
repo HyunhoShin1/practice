@@ -34,5 +34,5 @@ https://www.google.com
 #### 링크로 삽입
 ![피부과](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MjlfMTE3%2FMDAxNzE0Mzc1Mjk4Njk2.DcN8cRcTYccLjmVHeq_7WpDl4ZE0rgymtsyrKL_wDUkg.g2NcRjUK12H5-cfOm3lrvZslMveU4FtufP__UzhpUxMg.JPEG%2FDAY00068-%25C6%25ED%25C1%25FD.JPG&type=a340)
 
-#### 깃에 올려 상ㅂ입
+#### 깃에 올려 삽입
 ![과제제출](./img/20190419_124619.jpg)
